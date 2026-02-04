@@ -21,3 +21,13 @@ This repository contains a collection of image classification models implemented
 
 6. **Dropout Regularization Experiment**  
    Implementation of dropout regularization techniques to reduce overfitting and improve model generalization.
+
+
+## Dataset
+
+The Cats and Dogs dataset is not included in this repository due to size and licensing restrictions.
+
+You can download the dataset from:
+- Kaggle: https://www.kaggle.com/c/dogs-vs-cats
+
+After downloading, extract the dataset into the following directory structure:
