@@ -25,8 +25,9 @@ This repository contains a collection of image classification models implemented
 
 ## Dataset
 
-The Cats and Dogs, Horses or Humans datasets are not included in this repository due to size and licensing restrictions.
+The Cats and Dogs, Horses or Humans, and Rock Paper Scissors datasets are not included in this repository due to size and licensing restrictions.
 
 You can download the dataset from:
 - Kaggle: https://www.kaggle.com/c/dogs-vs-cats
 - Kaggle: https://www.kaggle.com/datasets/sanikamal/horses-or-humans-dataset
+- Kaggle: https://www.kaggle.com/datasets/sanikamal/rock-paper-scissors-dataset
